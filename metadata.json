@@ -1,0 +1,6 @@
+{
+  "name": "JustAtestados",
+  "description": "Sistema de Gestão de Saúde Ocupacional e Absenteísmo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
